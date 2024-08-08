@@ -19,6 +19,6 @@ const Index = () => {
       </Button>
     </div>
   );
-};
+;
 
 export default Index;
